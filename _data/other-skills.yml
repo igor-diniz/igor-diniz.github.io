@@ -1,11 +1,11 @@
 - name: SQL
   percentage: 80
-  color: warning
+  color: primary
   
 - name: Apex
   percentage: 60
-  color: warning
+  color: primary
 
 - name: SAS
   percentage: 50
-  color: warning
+  color: primary
