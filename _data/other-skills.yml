@@ -1,3 +1,11 @@
-- name: Excel
-  percentage: 95
-  color: info
+- name: Java
+  percentage: 80
+  color: '#00838f'
+  
+- name: SQL
+  percentage: 80
+  color: '#744d9f'
+
+- name: Apex
+  percentage: 60
+  color: '#49759a'

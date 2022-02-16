@@ -9,15 +9,3 @@
 - name: Python
   percentage: 85
   color:
-
-- name: Java
-  percentage: 80
-  color: '#00838f'
-  
-- name: SQL
-  percentage: 80
-  color: '#744d9f'
-
-- name: Apex
-  percentage: 60
-  color: '#49759a'
