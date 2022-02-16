@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
-  percentage: 80
-  color:
+- name: C++
+percentage: 90
+color: danger
 
 - name: Python
-  percentage: 70
-  color: secondary
+percentage: 80
+color: secondary
+
+- name: Java
+percentage: 75
+color:
+
+- name: SQL
+percentage: 75
+color: yellow
+
+- name: SAS
+percentage: 75
+color: yellow
+
+- name: Apex
+percentage: 75
+color: green
