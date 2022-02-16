@@ -1,11 +1,11 @@
-- name: Java
-  percentage: 80
-  color: warning
-  
 - name: SQL
   percentage: 80
-  color: success
-
+  color: primary
+  
 - name: Apex
   percentage: 60
-  color: secondary
+  color: danger
+
+- name: SAS
+  percentage: 50
+  color: dark

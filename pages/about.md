@@ -10,9 +10,10 @@ weight: 3
 Hi I am **{{ site.author.name }}** :wave:,<br>
 another crazy person in love with technology, and who believes that with her help we can live much better. I am currently in the second year of the computer engineering graduation at FEUP and I am doing an internship at PPN Tecnologia, learning about SalesForce platform and SAS programming language.
 
+## **My Hard Skills**
 <div class="row">
-{% include about/skills.html title="My Hard Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="\n" source=site.data.other-skills %}
+{% include about/skills.html  source=site.data.programming-skills %}
+{% include about/skills.html  source=site.data.other-skills %}
 </div>
 
 <div class="row">

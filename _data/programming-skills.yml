@@ -9,3 +9,7 @@
 - name: Python
   percentage: 85
   color: dark
+
+- name: Java
+  percentage: 80
+  color: warning
