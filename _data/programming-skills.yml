@@ -14,10 +14,10 @@ color:
 percentage: 75
 color: yellow
 
-- name: SAS
-percentage: 75
-color: yellow
-
 - name: Apex
-percentage: 75
+percentage: 60
 color: green
+
+- name: SAS
+percentage: 40
+color: black
