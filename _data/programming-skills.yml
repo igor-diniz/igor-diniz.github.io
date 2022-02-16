@@ -3,9 +3,21 @@
   color: danger
 
 - name: Python
-  percentage: 80
+  percentage: 85
   color:
 
 - name: Java
-  percentage: 70
+  percentage: 80
   color: secondary
+  
+- name: SQL
+  percentage: 80
+  color: primary-rgb
+
+- name: Apex
+  percentage: 60
+  color: secondary-dark
+
+- name: Apex
+  percentage: 50
+  color: info
