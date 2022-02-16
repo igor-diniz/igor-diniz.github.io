@@ -12,7 +12,7 @@ another crazy person in love with technology, and who believes that with her hel
 
 <div class="row">
 {% include about/skills.html title="My Hard Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="" source=site.data.other-skills %}
+{% include about/skills.html title="\n" source=site.data.other-skills %}
 </div>
 
 <div class="row">
