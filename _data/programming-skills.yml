@@ -1,15 +1,15 @@
 - name: Excel
   percentage: 95
-  color: warning
+  color: dark
 
 - name: C++
   percentage: 90
-  color: warning
+  color: dark
 
 - name: Python
   percentage: 85
-  color: warning
+  color: dark
 
 - name: Java
   percentage: 80
-  color: warning
+  color: dark
