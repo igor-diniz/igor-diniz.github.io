@@ -1,3 +1,7 @@
+- name: Excel
+  percentage: 95
+  color: info
+
 - name: C++
   percentage: 90
   color: danger
