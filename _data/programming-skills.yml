@@ -1,6 +1,6 @@
 - name: Excel
   percentage: 95
-  color: info
+  color: primary
 
 - name: C++
   percentage: 90
@@ -8,4 +8,4 @@
 
 - name: Python
   percentage: 85
-  color:
+  color: second

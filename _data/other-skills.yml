@@ -1,11 +1,11 @@
 - name: Java
   percentage: 80
-  color: '#00838f'
+  color: info
   
 - name: SQL
   percentage: 80
-  color: '#744d9f'
+  color: dark
 
 - name: Apex
   percentage: 60
-  color: '#49759a'
+  color: danger
