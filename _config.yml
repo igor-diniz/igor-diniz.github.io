@@ -5,7 +5,6 @@ description         : >-
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : up202000162/up202000162.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
-background-image    : url('/imgs/Foto_de_perfil.png')
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
