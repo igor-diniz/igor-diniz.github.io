@@ -16,6 +16,7 @@ another crazy person in love with technology, and who believes that with her hel
 {% include about/skills.html  source=site.data.other-skills %}
 </div>
 
+## **My Timeline**
 <div class="row">
 {% include about/timeline.html %}
 </div>
