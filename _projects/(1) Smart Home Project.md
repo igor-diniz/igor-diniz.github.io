@@ -1,7 +1,7 @@
 ---
 name: Smart Home Data Base Project
 tools: [SQL, SQLite]
-image: ../imgs/sqlprojectcover.png
+image: ../imgs/answer10.png
 description: This is a project in the database context proposed by the Faculty of Engineering of the University of Porto. A database was created, populated and queried according to the real world.
 ---
 
