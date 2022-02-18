@@ -1,7 +1,7 @@
 ---
 name: Shooter Game Project
 tools: [Java, Gradle, Groovy, Lanterna]
-image: "../imgs/level5ldts.jpeg"
+image: ../imgs/level5ldts.jpeg
 description: This project consists in a 2D shooter game programmed in Java.
 ---
 
