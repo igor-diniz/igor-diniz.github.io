@@ -42,9 +42,59 @@ The project was designed from the UML to the creation of the database itself. Th
 {% include elements/button.html link="https://github.com/up202000162/CasaInteligente/blob/main/povoar.sql" text="Population Code" %}
 </p>
 
+## Query 1
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer1](../imgs/answer1.png)
+
+## Query 2
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer2](../imgs/answer2.png)
+
+## Query 3
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer3](../imgs/answer3.png)
+
+## Query 4
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer4](../imgs/answer4.png)
+
+## Query 5
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer5](../imgs/answer5.png)
+
+## Query 6
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer6](../imgs/answer6.png)
+
+## Query 7
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer7](../imgs/answer7.png)
+
+## Query 8
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer8](../imgs/answer8.png)
+
+## Query 9
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer9](../imgs/answer9.png)
+
+## Query 10
+Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+
+![answer10](../imgs/answer10.png)
 
 
-<p class="text-center">
-To see the queries and the complete github project click on the button below.
+### To see the queries and the complete github project click on the button below
+
+<p>
 {% include elements/button.html link="https://github.com/up202000162/CasaInteligente" text="Learn More" %}
 </p>
