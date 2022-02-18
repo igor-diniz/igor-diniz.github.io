@@ -1,7 +1,7 @@
 ---
 name: Smart Home Data Base Project
 tools: [SQL, SQLite]
-image: ../imgs/answer10.png
+image: ../imgs/sqlprojectcover.png
 description: This is a project in the database context proposed by the Faculty of Engineering of the University of Porto. A database was created, populated and queried according to the real world.
 ---
 
@@ -45,52 +45,75 @@ The project was designed from the UML to the creation of the database itself. Th
 ## Query 1
 Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
 
-![answer1](../imgs/answer1.png)
+<p>
+    <img src="../imgs/answer1.png" alt="Image">
+</p>
 
 ## Query 2
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Qual o idioma mais utilizado nas assistentes virtuais que possuem um número de dispositivos associados acima da média arredondada para 0 casas decimais?
 
-![answer2](../imgs/answer2.png)
+<p>
+    <img src="../imgs/answer2.png" alt="Image">
+</p>
+
 
 ## Query 3
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Quais são os 2 maiores números de utilizadores, por nacionalidade e por idioma das aplicações que controlam? Em caso de empate deve ser selecionado o tuplo cuja nacionalidade seja a menor em ordem alfabética
 
-![answer3](../imgs/answer3.png)
+<p>
+    <img src="../imgs/answer3.png" alt="Image">
+</p>
+
 
 ## Query 4
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Qual o nome, modelo, alcance e velocidade máxima dos dispositivos bluetooth e dos dispositivos wifi da base de dados ordenados por ordem descendente de velocidade máxima?
 
-![answer4](../imgs/answer4.png)
+<p>
+    <img src="../imgs/answer4.png" alt="Image">
+</p>
 
 ## Query 5
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Qual o nome do modelo dos comandos infravermelho, cuja aplicação a qual estão associados tenha versão maior que 2.3?
 
-![answer5](../imgs/answer5.png)
+<p>
+    <img src="../imgs/answer5.png" alt="Image">
+</p>
 
 ## Query 6
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Qual o nome dos dispositivos que pertencem a um grupo que contenha 'casa' no nome e cuja orientação solar da casa a qual pertencem seja Leste?
 
-![answer6](../imgs/answer6.png)
+<p>
+    <img src="../imgs/answer6.png" alt="Image">
+</p>
 
 ## Query 7
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Qual a diferença entre o alcance máximo e mínimo dos dispositivos bluetooth que estão conectados a assistentes virtuais de nome ‘Google Assistant’?
 
-![answer7](../imgs/answer7.png)
+<p>
+    <img src="../imgs/answer7.png" alt="Image">
+</p>
 
 ## Query 8
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Quais são as condições que permitem disparar uma ação de ligar ou desligar dispositivos infravermelho por meio de um assistente virtual Alexa?
 
-![answer8](../imgs/answer8.png)
+<p>
+    <img src="../imgs/answer8.png" alt="Image">
+</p>
 
 ## Query 9
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Qual é a soma das áreas totais distintas das casas e a quantidade de casas que foram contabilizadas, cujos utilizadores não principais tenham idade superior a 20 anos e controlam aplicações em português?
 
-![answer9](../imgs/answer9.png)
+
+<p>
+    <img src="../imgs/answer9.png" alt="Image">
+</p>
 
 ## Query 10
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
+Quais são os nomes e modelos e marcas dos dispositivos wifi que não têm uma aplicação associada a eles na base de dados?
 
-![answer10](../imgs/answer10.png)
+<p>
+    <img src="../imgs/answer10.png" alt="Image">
+</p>
 
 
 ### To see the queries and the complete github project click on the button below
