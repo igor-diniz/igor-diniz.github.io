@@ -115,9 +115,6 @@ Quais são os nomes e modelos e marcas dos dispositivos wifi que não têm uma a
     <img src="../imgs/answer10.png" alt="Image">
 </p>
 
-
-### To see the queries and the complete github project click on the button below
-
-<p>
+<p class="text-center">
 {% include elements/button.html link="https://github.com/up202000162/CasaInteligente" text="Learn More" %}
 </p>
