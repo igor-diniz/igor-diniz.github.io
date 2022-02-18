@@ -43,14 +43,13 @@ The project was designed from the UML to the creation of the database itself. Th
 </p>
 
 ## Query 1
-Quais são os nomes dos modelos de dispositivos que são ou da marca Apple, ou da Microsoft ou da Amazon?
-
+What are the device model names that are either Apple branded or Microsoft or Amazon branded?
 <p>
     <img src="../imgs/answer1.png" alt="Image">
 </p>
 
 ## Query 2
-Qual o idioma mais utilizado nas assistentes virtuais que possuem um número de dispositivos associados acima da média arredondada para 0 casas decimais?
+What is the most used language in virtual assistants that have a number of associated devices above the average rounded to 0 decimal places?
 
 <p>
     <img src="../imgs/answer2.png" alt="Image">
@@ -58,7 +57,7 @@ Qual o idioma mais utilizado nas assistentes virtuais que possuem um número de 
 
 
 ## Query 3
-Quais são os 2 maiores números de utilizadores, por nacionalidade e por idioma das aplicações que controlam? Em caso de empate deve ser selecionado o tuplo cuja nacionalidade seja a menor em ordem alfabética
+What are the 2 largest numbers of users, by nationality and by language of the applications they control? In the event of a tie, the tuple whose nationality is the lowest in alphabetical order must be selected.
 
 <p>
     <img src="../imgs/answer3.png" alt="Image">
@@ -66,51 +65,48 @@ Quais são os 2 maiores números de utilizadores, por nacionalidade e por idioma
 
 
 ## Query 4
-Qual o nome, modelo, alcance e velocidade máxima dos dispositivos bluetooth e dos dispositivos wifi da base de dados ordenados por ordem descendente de velocidade máxima?
+What is the name, model, range and maximum speed of bluetooth devices and wifi devices in the database, sorted in descending order of maximum speed?
 
 <p>
     <img src="../imgs/answer4.png" alt="Image">
 </p>
 
 ## Query 5
-Qual o nome do modelo dos comandos infravermelho, cuja aplicação a qual estão associados tenha versão maior que 2.3?
+What is the model name of the infrared commands, whose application to which they are associated has a version greater than 2.3?
 
 <p>
     <img src="../imgs/answer5.png" alt="Image">
 </p>
 
 ## Query 6
-Qual o nome dos dispositivos que pertencem a um grupo que contenha 'casa' no nome e cuja orientação solar da casa a qual pertencem seja Leste?
+What is the name of the devices that belong to a group that contains 'house' in the name and whose solar orientation of the house to which they belong is East?
 
 <p>
     <img src="../imgs/answer6.png" alt="Image">
 </p>
 
 ## Query 7
-Qual a diferença entre o alcance máximo e mínimo dos dispositivos bluetooth que estão conectados a assistentes virtuais de nome ‘Google Assistant’?
+What is the difference between the maximum and minimum range of bluetooth devices that are connected to virtual assistants named 'Google Assistant'?
 
 <p>
     <img src="../imgs/answer7.png" alt="Image">
 </p>
 
 ## Query 8
-Quais são as condições que permitem disparar uma ação de ligar ou desligar dispositivos infravermelho por meio de um assistente virtual Alexa?
-
+What are the conditions that allow triggering an action to turn infrared devices on or off via an Alexa virtual assistant?
 <p>
     <img src="../imgs/answer8.png" alt="Image">
 </p>
 
 ## Query 9
-Qual é a soma das áreas totais distintas das casas e a quantidade de casas que foram contabilizadas, cujos utilizadores não principais tenham idade superior a 20 anos e controlam aplicações em português?
-
+What is the sum of the different total areas of the houses and the number of houses that were counted, whose non-main users are over 20 years old and control applications in Portuguese?
 
 <p>
     <img src="../imgs/answer9.png" alt="Image">
 </p>
 
 ## Query 10
-Quais são os nomes e modelos e marcas dos dispositivos wifi que não têm uma aplicação associada a eles na base de dados?
-
+What are the names and models and brands of wifi devices that do not have an application associated with them in the database?
 <p>
     <img src="../imgs/answer10.png" alt="Image">
 </p>
