@@ -45,6 +45,6 @@ The project was designed from the UML to the creation of the database itself. Th
 
 
 <p class="text-center">
-See the complete GitHub project and the complete code.
+To see the queries and the complete github project click on the button below.
 {% include elements/button.html link="https://github.com/up202000162/CasaInteligente" text="Learn More" %}
 </p>
