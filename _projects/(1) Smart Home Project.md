@@ -1,7 +1,7 @@
 ---
 name: Smart Home Data Base Project
 tools: [SQL, SQLite]
-image: ../imgs/sqlprojectcover
+image: ../imgs/sqlprojectcover.png
 description: This is a project in the database context proposed by the Faculty of Engineering of the University of Porto. A database was created, populated and queried according to the real world.
 ---
 
@@ -20,7 +20,7 @@ The project was designed from the UML to the creation of the database itself. Th
 
 # Project Report
  If you want to see the complete project report click on the following button.
- 
+
 <p>
 {% include elements/button.html link="../imgs/relatorioDoProjeto.pdf" text="See the Report" %}
 </p>
@@ -45,5 +45,6 @@ The project was designed from the UML to the creation of the database itself. Th
 
 
 <p class="text-center">
+See the complete GitHub project and the complete code.
 {% include elements/button.html link="https://github.com/up202000162/CasaInteligente" text="Learn More" %}
 </p>
