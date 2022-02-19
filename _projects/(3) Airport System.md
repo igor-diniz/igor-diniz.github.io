@@ -26,7 +26,7 @@ The objective was to implement the management of the airline using adequate abst
 
 ## Project Overview
 
-A little sample of how to search for the flight in the management of the airline.
+A little sample of how to search for a flight in the management of the airline.
 
 <p>
     <img src="../imgs/mainMenuAirportSystem.png" alt="Image">
