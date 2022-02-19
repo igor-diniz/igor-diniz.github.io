@@ -1,6 +1,6 @@
 ---
 name: Bus System
-tools: [C++, Doxygen]
+tools: [C++, Excel, Doxygen]
 image: ../imgs/busSystem1.png
 description: This project was developed in the context of learning algorithms and data structures. It consists of managing the bus system of Porto city.
 ---
