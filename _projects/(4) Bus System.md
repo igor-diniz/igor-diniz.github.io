@@ -1,7 +1,7 @@
 ---
 name: Bus System
 tools: [C++, Excel, Doxygen]
-image: ../imgs/busSystem1.png
+image: ../imgs/bus.png
 description: This project was developed in the context of learning algorithms and data structures. It consists of managing the bus system of Porto city.
 ---
 
@@ -30,12 +30,12 @@ A little sample of how to find the shortest distance bus route from FEUP to Trin
 
 #### Input
 <p class="smart-pictures">
-    <img src="../imgs/busSystem1.png" alt="Image">
+    <img src="../imgs/busSystem1.png" alt="Image" height="100%" width="100%">
 </p>
 
 #### Output
 <p class="smart-pictures">
-    <img src="../imgs/busSystem2.png" alt="Image">
+    <img src="../imgs/busSystem2.png" alt="Image" height="100%" width="100%">
 </p>
 
 <br>
