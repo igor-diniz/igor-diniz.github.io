@@ -44,14 +44,14 @@ The project was designed from the UML to the creation of the database itself. Th
 
 ## Query 1
 What are the device model names that are either Apple branded or Microsoft or Amazon branded?
-<p>
+<p align="left">
     <img src="../imgs/answer1.png" alt="Image">
 </p>
 
 ## Query 2
 What is the most used language in virtual assistants that have a number of associated devices above the average rounded to 0 decimal places?
 
-<p>
+<p align="left">
     <img src="../imgs/answer2.png" alt="Image">
 </p>
 
@@ -59,7 +59,7 @@ What is the most used language in virtual assistants that have a number of assoc
 ## Query 3
 What are the 2 largest numbers of users, by nationality and by language of the applications they control? In the event of a tie, the tuple whose nationality is the lowest in alphabetical order must be selected.
 
-<p>
+<p align="left">
     <img src="../imgs/answer3.png" alt="Image">
 </p>
 
@@ -67,47 +67,49 @@ What are the 2 largest numbers of users, by nationality and by language of the a
 ## Query 4
 What is the name, model, range and maximum speed of bluetooth devices and wifi devices in the database, sorted in descending order of maximum speed?
 
-<p>
+<p align="left">
     <img src="../imgs/answer4.png" alt="Image">
 </p>
 
 ## Query 5
 What is the model name of the infrared commands, whose application to which they are associated has a version greater than 2.3?
 
-<p>
+<p align="left">
     <img src="../imgs/answer5.png" alt="Image">
 </p>
 
 ## Query 6
 What is the name of the devices that belong to a group that contains 'house' in the name and whose solar orientation of the house to which they belong is East?
 
-<p>
+<p align="left">
     <img src="../imgs/answer6.png" alt="Image">
 </p>
 
 ## Query 7
 What is the difference between the maximum and minimum range of bluetooth devices that are connected to virtual assistants named 'Google Assistant'?
 
-<p>
+<p align="left">
     <img src="../imgs/answer7.png" alt="Image">
 </p>
 
 ## Query 8
 What are the conditions that allow triggering an action to turn infrared devices on or off via an Alexa virtual assistant?
-<p>
+
+<p align="left">
     <img src="../imgs/answer8.png" alt="Image">
 </p>
 
 ## Query 9
 What is the sum of the different total areas of the houses and the number of houses that were counted, whose non-main users are over 20 years old and control applications in Portuguese?
 
-<p>
+<p align="left">
     <img src="../imgs/answer9.png" alt="Image">
 </p>
 
 ## Query 10
 What are the names and models and brands of wifi devices that do not have an application associated with them in the database?
-<p>
+
+<p align="left">
     <img src="../imgs/answer10.png" alt="Image">
 </p>
 
