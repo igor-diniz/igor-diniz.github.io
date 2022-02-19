@@ -5,7 +5,7 @@ image: ../imgs/sqlprojectcover.png
 description: This is a project in the database context proposed by the Faculty of Engineering of the University of Porto. A database was created, populated and queried according to the real world.
 ---
 
-# Project Overview
+# Smart Home Project
 
 This is a project in the database context proposed by the Faculty of Engineering of the University of Porto. A database was created, populated and queried according to the real world.
 
