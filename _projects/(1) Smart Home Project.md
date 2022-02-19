@@ -33,13 +33,13 @@ The project was designed from the UML to the creation of the database itself. Th
 ## Database Creation
 
 <p>
-{% include elements/button.html link="https://github.com/up202000162/CasaInteligente/blob/main/criar.sql" text="Creation Code" %}
+{% include elements/button.html link="https://github.com/up202000162/CasaInteligente/blob/main/criar.sql" text="Code Creation" %}
 </p>
 
 ## Database Population
 
 <p>
-{% include elements/button.html link="https://github.com/up202000162/CasaInteligente/blob/main/povoar.sql" text="Population Code" %}
+{% include elements/button.html link="https://github.com/up202000162/CasaInteligente/blob/main/povoar.sql" text="Code Population" %}
 </p>
 
 ## Query 1
