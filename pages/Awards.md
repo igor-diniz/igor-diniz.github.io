@@ -2,5 +2,5 @@
 layout: page
 title: Awards
 permalink: /awards/
-weight: 5
+weight: 4
 ---
