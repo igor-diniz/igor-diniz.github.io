@@ -14,7 +14,7 @@ This project consists in a 2D looter shooter game, which consists of one player 
     <img src="../imgs/gamePreview.gif" alt="Image" height="100%" width="100%">
 </p>
 
-<br></br>
+<br>
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/up202000162/Shooter-Game" text="Learn More" %}
