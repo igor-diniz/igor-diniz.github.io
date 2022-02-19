@@ -28,13 +28,13 @@ The objective was to implement the management of the airline using adequate abst
 
 A little sample of how to search for a flight in the management of the airline.
 
-<p>
+<p class="smart-pictures">
     <img src="../imgs/mainMenuAirportSystem.png" alt="Image">
     <img src="../imgs/usageAirportSystem.png" alt="Image">
 </p>
 
 <br>
 
-<p class="text-center">
+<p  class="text-center">
 {% include elements/button.html link="https://github.com/up202000162/Airport-System" text="Learn More" %}
 </p>
