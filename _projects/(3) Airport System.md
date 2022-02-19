@@ -2,14 +2,39 @@
 name: Airport System
 tools: [C++, Doxygen]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
+description: This project was developed in the context of learning algorithms and data structures. It consists of managing the resources of an airline.
 ---
 
 # Airport System Project
 
-This project was developed in the context of learning algorithms and data structures.
+This project was developed in the context of learning algorithms and data structures. It consists of managing the resources of an airline.
 
-## Game Overview
 <p>
-    <img src="../imgs/gamePreview.gif" alt="Image" height="100%" width="100%">
+{% include elements/button.html link="../imgs/descricaoProjetoAED.pdf" text="See the context" %}
+</p>
+
+## Goal
+
+The objective was to implement the management of the airline using adequate abstract data structures, in addition to thinking about improving temporal and spatial complexity.
+
+## Abstract Data Structures Implemented
+- Stack
+- Queue
+- Doubly Linked List
+- Vector
+- Binary Search Tree (BST)
+
+## Project Overview
+
+A little sample of how to search for the flight in the management of the airline.
+
+<p>
+    <img src="../imgs/mainMenuAirportSystem.png" alt="Image">
+    <img src="../imgs/usageAirportSystem.png" alt="Image">
+</p>
+
+<br></br>
+
+<p class="text-center">
+{% include elements/button.html link="https://github.com/up202000162/Airport-System" text="Learn More" %}
 </p>

@@ -113,6 +113,8 @@ What are the names and models and brands of wifi devices that do not have an app
     <img src="../imgs/answer10.png" alt="Image">
 </p>
 
+<br></br>
+
 <p class="text-center">
 {% include elements/button.html link="https://github.com/up202000162/CasaInteligente" text="Learn More" %}
 </p>
