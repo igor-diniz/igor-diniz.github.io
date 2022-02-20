@@ -7,6 +7,6 @@ weight: 7
 
 # **Contact Me**
 
-Gmail: <a href="mailto:{{site.author.email}}"> {{site.author.email}} </a>
+**Email: <a href="mailto:{{site.author.email}}"> {{site.author.email}} </a>**
 
-Mobile phone number: [ +351 91 039 71 75](tel:+351910397175)
+**Mobile phone number: [ +351 91 039 71 75](tel:+351910397175)**
