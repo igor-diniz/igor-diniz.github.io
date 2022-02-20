@@ -9,4 +9,4 @@ weight: 7
 
 Gmail: <a href="mailto:{{site.author.email}}"> {{site.author.email}} </a>
 
-Cel phone: +351 910397175
+Mobile phone number: [ +351 91 039 71 75](tel:+351910397175)
