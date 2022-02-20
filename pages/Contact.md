@@ -7,6 +7,6 @@ weight: 7
 
 # **Contact Me**
 
-Gmail: <a href="mailto:{{site.author.email}}"> </a>
+Gmail: <a href="mailto:{{site.author.email}}"> {{site.author.email}} </a>
 
 Cel phone: +351 910397175
