@@ -2,11 +2,11 @@
 layout: page
 title: Contact
 permalink: /contact/
-weight: 6
+weight: 7
 ---
 
 # **Contact Me**
 
-Gmail: {{site.author.email}}
+Gmail: <a href="mailto:{{site.author.email}}"> </a>
 
 Cel phone: +351 910397175

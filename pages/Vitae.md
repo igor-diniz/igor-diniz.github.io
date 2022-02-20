@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Vitae
-weight: 5
-permalink: /
+weight: 6
+permalink: /vitae/
 external_url: ../imgs/CVIgorDinizEnglish.pdf
 ---
