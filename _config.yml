@@ -3,7 +3,7 @@ title               : Igor Diniz
 description         : >-
                       <div id="description"> Hi there! 👋 I'm Igor Diniz and I'm glad you're here. 😃 </div>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : up202000162/up202000162.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : igor-diniz/igor-diniz.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 description-col     : "#FFFFFF"
@@ -29,7 +29,7 @@ author:
 # dribbble          : your_username
   email             : igordiniz.eu@gmail.com
 #  facebook          : your_username
-  github            : up202000162
+  github            : igor-diniz
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
