@@ -1,31 +1,38 @@
 - title: Academic Merit <a href="https://noticias.up.pt/faculdade-de-engenharia-distingue-melhores-estudantes-internacionais/">Scholarship</a> 2021/2022
   year: 2022
+  institution: Faculty of Engineering of University of Porto
   description:  Appreciation for international students who 
                 excelled during the academic year.
 
 - title:  Academic Merit <a href="https://noticias.up.pt/feup-distingue-melhores-estudantes-internacionais/">Scholarship</a> 2020/2021
   year: 2021
+  institution: Faculty of Engineering of University of Porto
   description: Appreciation for international students who 
                 excelled during the academic year.
 
 - title: Certificate of Merit in <a href="https://pt.wikipedia.org/wiki/Canguru_Matem%C3%A1tico_sem_Fronteiras">Canguru Sem Fronteiras</a> Competition, Mathematics
   year: 2018
+  institution: Colegio Naval - Brazilian Navy
   description: Certificate for the best classified in this mathematics Olympiad.
 
 - title: Gold medal <a href="https://www.jornalpelicano.com.br/2018/05/xli-mercnav-futebol/">MERCNAV</a> competition
   year: 2018
+  institution: Colegio Naval - Brazilian Navy
   description: Gold medal in the MERCNAV competition by the soccer team.
 
 - title: Gold medal <a href="https://www.marinha.mil.br/node/1846">CN x EN</a> competition
   year: 2017
+  institution: Colegio Naval - Brazilian Navy
   description: Gold medal in the CN x EN competition by the soccer team.
 
 - title: Gold medal <a href="https://pt.wikipedia.org/wiki/Col%C3%A9gio_Naval#NAE">NAE</a> competition 
   year: 2016
+  institution: Colegio Naval - Brazilian Navy
   description: Gold medal in the NAE competition, the most important of the year, by the soccer team.
 
 - title: Gold medal <a href="https://www.marinha.mil.br/node/1846">CN x EN</a> competition
   year: 2016
+  institution: Colegio Naval - Brazilian Navy
   description: Gold medal in the CN x EN competition by the soccer team.
 
 
