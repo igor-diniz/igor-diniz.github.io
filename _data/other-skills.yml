@@ -1,15 +1,12 @@
 - name: SQL
-  percentage: 80
+  percentage: 75
   color: primary
 
 - name: Git
   percentage: 75
   color: primary
-  
-- name: Apex
-  percentage: 60
-  color: primary
 
-- name: SAS
-  percentage: 50
+- name: Java
+  percentage: 70
   color: primary
+  
