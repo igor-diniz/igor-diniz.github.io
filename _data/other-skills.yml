@@ -1,12 +1,12 @@
 - name: SQL
-  percentage: 75
+  percentage: 65
   color: primary
 
-- name: Git
-  percentage: 75
+- name: HTML & CSS
+  percentage: 60
   color: primary
 
-- name: Java
-  percentage: 70
+- name: PHP
+  percentage: 60
   color: primary
   
