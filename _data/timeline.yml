@@ -2,27 +2,29 @@
   from: 2021
   to: present
   description: Remote internship in the data analysis area.<br>
-               Doing SAS programming language and SalesForce development training
+               Doing SAS programming language and SalesForce development training.
 
 - title: IT Senior Member, <a href="https://interup.org/">InterUp</a>, FEUP
   from: 2021
   to: present
   description: InterUp is an association that promotes the reception 
-                and inclusion of international students at FEUP.<br> 
+                and inclusion of international students at FEUP.<br>
+                Automated the association's 360 Degree Feedback, using
+              python to create reports for each association's member, increasing the efficiency to perform this task. <br>
                Developed association’s website with the other IT members generating greater visibility for the company. <br>
-               Built association’s internal data dashboard, using Google Data Studio, which helps hire new members according to the company's needs
+               Built association’s internal data dashboard, using Google Data Studio, which helps hire new members according to the company's needs.
 
 - title: Informatics and Computer Engineering Student, <a href="https://sigarra.up.pt/feup/pt/web_page.Inicial">FEUP</a>
   from: 2020
   to: present
   description: Developed 6 projects so far in C++, Java, and SQL programming languages. <br>
-               Achieved 16.4 out of 20 global averages
+               Achieved 16.4 out of 20 global averages.
 
 - title: Mechatronics Engineering Student, <a href="https://eesc.usp.br/">USP</a>, Brazil
   from: 2020
   to: 2020
   description: The best university of Brazil, according to QS ranking. <br>
-               Achieved 9.1 out of 10 global averages
+               Achieved 9.1 out of 10 global averages.
               
 - title: Prep Course, <a href="https://www.deaaz.com.br/">AaZ College and Course</a>, Brazil
   from: 2019
