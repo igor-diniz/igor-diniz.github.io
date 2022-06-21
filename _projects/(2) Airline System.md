@@ -1,5 +1,5 @@
 ---
-name: Airport System
+name: Airline System
 tools: [C++, Doxygen]
 image: ../imgs/airplane.jpg
 description: This project was developed in the context of learning algorithms and data structures. It consists of managing the resources of an airline.
